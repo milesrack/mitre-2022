@@ -15,15 +15,15 @@ Writeups from a CTF competition hosted by [MITRE](https://www.mitre.org/) that r
 |[pwn200](./pwn/pwn200)|200|:heavy_check_mark:|
 |[pwn300](./pwn/pwn300)|300|:heavy_check_mark:|
 |[pwn400](./pwn/pwn400)|400|:heavy_check_mark:|
-|[pwn500](./pwn/pwn500)|500|:heavy_check_mark:|
+|[pwn500](./pwn/pwn500)|500|:x:|
 
 ## Reverse Engineering
 |Challenge|Points|Solved|
 |:---:|:---:|:---:|
 |[rev100](./rev/rev100)|100|:heavy_check_mark:|
 |[rev200](./rev/rev200)|200|:heavy_check_mark:|
-|[rev300](./rev/rev300)|300|:x:|
-|[rev400](./rev/rev400)|400|:x:|
+|[rev300](./rev/rev300)|300|:heavy_check_mark:|
+|[rev400](./rev/rev400)|400|:heavy_check_mark:|
 
 ## Web
 |Challenge|Points|Solved|
